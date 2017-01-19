@@ -1,4 +1,6 @@
-# Level-1 / Lesson 1 / Project 1: html 1 and css 1
+# HP Zahdi
+
+information about Harry Potter books.
 
 ![status: ready](https://img.shields.io/badge/status-ready-brightgreen.svg)
 
